@@ -1,0 +1,5 @@
+Models,Training Accuracy,Testing Accuracy
+SVM,0.92,0.9
+Random Forest,0.8,0.77
+Naive Bayes,0.77,0.76
+XG Boost,0.95,0.91
